@@ -8,4 +8,4 @@ Data is stored locally on the device storage using the sqflite Flutter package, 
 
 ## Screenshots
 
-<img src="https://github.com/yuvraj0028/task_master/assets/96447724/d0076c98-59e5-4979-864e-2a2307e0961e" width="200" height="400" />
+<img src="https://github.com/usanv/diaree_tasks_notes-flutter/blob/main/screenshots/1.png" width="200" height="400" />
