@@ -9,3 +9,8 @@ Data is stored locally on the device storage using the sqflite Flutter package, 
 ## Screenshots
 
 <img src="https://github.com/usanv/diaree_tasks_notes-flutter/blob/main/screenshots/1.png" width="200" height="400" />
+<img src="https://github.com/usanv/diaree_tasks_notes-flutter/blob/main/screenshots/2.png" width="200" height="400" />
+<img src="https://github.com/usanv/diaree_tasks_notes-flutter/blob/main/screenshots/3.png" width="200" height="400" />
+<img src="https://github.com/usanv/diaree_tasks_notes-flutter/blob/main/screenshots/4.png" width="200" height="400" />
+<img src="https://github.com/usanv/diaree_tasks_notes-flutter/blob/main/screenshots/5.png" width="200" height="400" />
+<img src="https://github.com/usanv/diaree_tasks_notes-flutter/blob/main/screenshots/6.png" width="200" height="400" />
